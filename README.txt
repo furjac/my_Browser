@@ -1,13 +1,4 @@
-hello guys this is Furjack and you have to keep both files in same place and keep your chrome browser up-to-date
-ok we need some important tools:
-open cmd and start typing these things
-1.pip install selenium
-2.Dont forget to change username and password
-2.after installing goto autoinsta.py and in 11th line add #tags in your own i have added some of them by my own
-3.thats all now run AutoInsta.py
-4.enjoy the view and you can even minimize it will run 
-5.get your instagram grow
-6.ENJOY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+this file should be runned using the python
 
                                                                                                                                                                                
                                                                                                                                                                                
